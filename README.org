@@ -4,6 +4,6 @@ Libuv CL bindings
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/orthecreedence/cl-libuv.git |
-| commit  | ebe3e16                                            |
+| commit  | 2ec76dc                                            |
 | systems | cl-libuv cl-libuv-config                           |
 |---------+----------------------------------------------------|
